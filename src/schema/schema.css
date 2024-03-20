@@ -1,0 +1,15 @@
+#primary-color {
+  background-color: #009293;
+}
+.bottom-section {
+  position: absolute;
+  bottom: 10px;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 10px 0;
+}
+.del-btn {
+  cursor: pointer;
+  background-color: #b3e7e7;
+  borderradius: 5px;
+}
